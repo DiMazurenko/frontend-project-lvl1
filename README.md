@@ -19,3 +19,8 @@ https://asciinema.org/a/ftCKZNc6lWmKsshtjisCdeWlO
 Игра brain-progression
 Установка пакета, запуск игры, разные исходы игры
 https://asciinema.org/a/XRCNZ8pwReKEoCYUjjv8t5yxn
+
+Игра brain-prime
+Установка пакета, запуск игры, разные исходы игры
+https://asciinema.org/a/tLuikFYIdQsmmi4M5a0Se5x2q
+
