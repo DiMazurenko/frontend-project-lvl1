@@ -46,3 +46,21 @@ export const taskGsd = () => {
   }
   return [question, result.toString()];
 };
+
+export const taskProgression = () => {
+  const randomPlusNumber = Math.floor(Math.random() * 100);
+  const firstNumber = Math.floor(Math.random() * 100);
+
+  const numbers = [];
+  numbers[0] = firstNumber;
+  for (let i = 1; i < 10; i += 1) {
+    numbers[i] = numbers[i - 1] + randomPlusNumber;
+  }
+  const randomNumberInArr = Math.floor(Math.random() * 10);
+  const answer = numbers[randomNumberInArr].toString();
+  numbers[randomNumberInArr] = '..';
+
+  const question = numbers;
+
+  return [question, answer];
+};
