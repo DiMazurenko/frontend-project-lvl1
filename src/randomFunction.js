@@ -30,3 +30,19 @@ export const taskCalc = () => {
 
   return [question, result.toString()];
 };
+
+export const taskGsd = () => {
+  const numberOne = Math.floor(Math.random() * 100);
+  const numberTwo = Math.floor(Math.random() * 100);
+  const maxNumber = Math.max(numberOne, numberTwo);
+
+  const question = `${numberOne} ${numberTwo}`;
+
+  let result = 0;
+  for (let i = 1; i <= maxNumber; i += 1) {
+    if (numberOne % i === 0 && numberTwo % i === 0) {
+      result = i;
+    }
+  }
+  return [question, result.toString()];
+};
