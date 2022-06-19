@@ -11,3 +11,7 @@ https://asciinema.org/a/IGwcbDsCFpX2WaJn0Tb0J70Yf
 Игра brain-calc
 Установка пакета, запуск игры, разные исходы игры
 https://asciinema.org/a/2FG7lyrNKpXrVRFpnaRV36xGS
+
+Игра brain-gcd
+Установка пакета, запуск игры, разные исходы игры
+https://asciinema.org/a/ftCKZNc6lWmKsshtjisCdeWlO
