@@ -15,3 +15,7 @@ https://asciinema.org/a/2FG7lyrNKpXrVRFpnaRV36xGS
 Игра brain-gcd
 Установка пакета, запуск игры, разные исходы игры
 https://asciinema.org/a/ftCKZNc6lWmKsshtjisCdeWlO
+
+Игра brain-progression
+Установка пакета, запуск игры, разные исходы игры
+https://asciinema.org/a/XRCNZ8pwReKEoCYUjjv8t5yxn
