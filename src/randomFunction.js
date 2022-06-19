@@ -64,3 +64,16 @@ export const taskProgression = () => {
 
   return [question, answer];
 };
+
+export const taskPrime = () => {
+  const question = Math.floor(Math.random() * 1000);
+
+  let answer = 'yes';
+  for (let i = 2; i < question; i += 1) {
+    if (question % i === 0) {
+      answer = 'no';
+    }
+  }
+
+  return [question, answer];
+};
