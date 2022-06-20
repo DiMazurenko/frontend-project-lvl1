@@ -20,20 +20,20 @@ Mind Games is a set of five console games based on popular mobile brain training
 
 ### brain-calc
 Calculator. Arithmetic expressions to be evaluated.
-[![asciicast](https://asciinema.org/a/tz2QnE6SC8BIAlOCN7s0pCjGX.png)](https://asciinema.org/a/tz2QnE6SC8BIAlOCN7s0pCjGX)
+<a href="https://asciinema.org/a/6OcwibtQmUTtQb8U6TLmsjZaG" target="_blank"><img src="https://asciinema.org/a/6OcwibtQmUTtQb8U6TLmsjZaG.svg" /></a>
 
 ### brain-progression
 Progression. Search for missing numbers in a sequence of numbers.
-[![asciicast](https://asciinema.org/a/Ae4CLrRAmbj0XVV3MbPkRsw5C.png)](https://asciinema.org/a/Ae4CLrRAmbj0XVV3MbPkRsw5C)
+<a href="https://asciinema.org/a/EbRYGCVrpGWCR0graGyXWGAvu" target="_blank"><img src="https://asciinema.org/a/EbRYGCVrpGWCR0graGyXWGAvu.svg" /></a>
 
 ### brain-even
 Definition of an even number.
-[![asciicast](https://asciinema.org/a/QPIEyljsl2LUiRAATggGwbYUk.png)](https://asciinema.org/a/QPIEyljsl2LUiRAATggGwbYUk)
+<a href="https://asciinema.org/a/x2criglSGJKTA1fdT69msmph2" target="_blank"><img src="https://asciinema.org/a/x2criglSGJKTA1fdT69msmph2.svg" /></a>
 
 ### brain-gcd
 Finding the Greatest Common Divisor.
-[![asciicast](https://asciinema.org/a/Qj63bmNJIjyne0lsoeMUktjxK.png)](https://asciinema.org/a/Qj63bmNJIjyne0lsoeMUktjxK)
+<a href="https://asciinema.org/a/hy8QnQ85KgzLSSkcbfmgZmjVb" target="_blank"><img src="https://asciinema.org/a/hy8QnQ85KgzLSSkcbfmgZmjVb.svg" /></a>
 
 ### brain-prime
 Definition of a prime number.
-[![asciicast](https://asciinema.org/a/uGX3aNz6EX1yEM2UFGqZesVpE.png)](https://asciinema.org/a/uGX3aNz6EX1yEM2UFGqZesVpE)
+<a href="https://asciinema.org/a/oMBrJ3KX0ee9BOgV8qVS8ZzfO" target="_blank"><img src="https://asciinema.org/a/oMBrJ3KX0ee9BOgV8qVS8ZzfO.svg" /></a>
