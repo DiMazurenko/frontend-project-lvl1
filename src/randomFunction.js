@@ -63,7 +63,7 @@ export const getTaskProgression = () => {
     numbers[i] = numbers[i - 1] + randomPlusNumber;
   }
 
-  const randomNumberInArr = Math.floor(Math.random() * (numbersCount + 1));
+  const randomNumberInArr = Math.floor(Math.random() * numbersCount);
   let answer = numbers[randomNumberInArr];
   answer = answer.toString();
 
