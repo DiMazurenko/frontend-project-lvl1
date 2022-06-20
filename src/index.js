@@ -16,6 +16,7 @@ export default (rule, questionAnswer) => {
     } else {
       console.log(`'${gamerAnswer}' is wrong answer ;(. Correct answer was '${pairQuestionAnswer[1]}'.
       Let's try again, ${name}!`);
+      return;
     }
   }
   console.log(`Congratulations, ${name}!`);
