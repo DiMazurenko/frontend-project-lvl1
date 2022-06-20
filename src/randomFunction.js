@@ -57,18 +57,17 @@ export const getTaskProgression = () => {
 
   const numbers = [];
   numbers[0] = firstNumber;
-  const numbersCount = Math.floor(Math.random() * (10 - 5 + 1)) + 5;
 
-  for (let i = 1; i < numbersCount; i += 1) {
+  for (let i = 1; i < 10; i += 1) {
     numbers[i] = numbers[i - 1] + randomPlusNumber;
   }
 
-  const randomNumberInArr = Math.floor(Math.random() * 10);
+  const randomNumberInArr = Math.floor(Math.random() * 11);
   const answer = numbers[randomNumberInArr].toString();
 
   numbers[randomNumberInArr] = '..';
 
-  const question = numbers.join(' ');
+  const question = numbers;
 
   return [question, answer];
 };
