@@ -67,7 +67,7 @@ export const getTaskProgression = () => {
 
   numbers[randomNumberInArr] = '..';
 
-  const question = numbers;
+  const question = numbers.join(' ');
 
   return [question, answer];
 };
