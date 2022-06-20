@@ -1,10 +1,10 @@
 import game from '../src/index.js';
-import { taskCalc } from '../src/randomFunction.js';
+import { getTaskCalc } from '../src/randomFunction.js';
 
 export default () => {
   const rule = 'What is the result of the expression?';
 
-  const questionAnswer = () => taskCalc();
+  const questionAnswer = () => getTaskCalc();
 
   game(rule, questionAnswer);
 };

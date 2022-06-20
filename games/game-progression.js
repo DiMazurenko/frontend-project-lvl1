@@ -1,10 +1,10 @@
 import game from '../src/index.js';
-import { taskProgression } from '../src/randomFunction.js';
+import { getTaskProgression } from '../src/randomFunction.js';
 
 export default () => {
   const rule = 'What number is missing in the progression?';
 
-  const questionAnswer = () => taskProgression();
+  const questionAnswer = () => getTaskProgression();
 
   game(rule, questionAnswer);
 };
